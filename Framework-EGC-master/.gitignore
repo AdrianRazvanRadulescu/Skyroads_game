@@ -1,0 +1,4 @@
+bin
+build*
+Visual Studio/.vs
+Visual Studio/obj
